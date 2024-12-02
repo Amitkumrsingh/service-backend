@@ -8,3 +8,5 @@ __pycache__/
 # Ignore IDE/editor-specific files (optional)
 .vscode/
 .idea/
+
+venv/*
