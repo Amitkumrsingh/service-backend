@@ -1,1 +1,10 @@
-./venv/*
+venv/
+__pycache__/
+*.py[cod]
+
+# Ignore environment files (e.g., .env files)
+.env
+
+# Ignore IDE/editor-specific files (optional)
+.vscode/
+.idea/
